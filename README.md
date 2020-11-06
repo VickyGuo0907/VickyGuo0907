@@ -1,9 +1,7 @@
 ### Hi, It's Vicky Guo 👋
 
-<!--
-**VickyGuo0907/VickyGuo0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am Vicky, and dedciated software enginner, just start more on Open Source world. 
+I am a dedciated software enginner, just start more on Open Source world. :beer:
 
 Here are some ideas to get you started:
 
@@ -12,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on above area :point_up:
 - 🤔 I’m looking for help with on above area :point_up:
 - 💬 Ask me about coding, fishing and traveling 
-- 📫 How to reach me: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: vicky.guo97@gmail.com
+
+
