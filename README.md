@@ -1,9 +1,7 @@
 ### Hi, It's Vicky Guo 👋
 
 
-I am a dedicated Software Engineer, just start more on Open Source world. :beer:
-
-Here are some ideas to get you started:
+I am a dedicated Senior Software Engineer, just start more on Open Source world. :beer:
 
 - 🔭 I’m currently working on cloud solution architecture design and deployment works.  
 - 🌱 I’m currently learning **AWS developer certifcation, ML/AI infrasturcure, Python and Cloud solution.**
