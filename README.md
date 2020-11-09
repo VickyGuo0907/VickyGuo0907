@@ -1,7 +1,7 @@
 ### Hi, It's Vicky Guo 👋
 
 
-I am a dedciated software enginner, just start more on Open Source world. :beer:
+I am a dedicated software enginner, just start more on Open Source world. :beer:
 
 Here are some ideas to get you started:
 
