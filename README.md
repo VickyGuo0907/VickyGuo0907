@@ -3,7 +3,7 @@
 
 I am a dedicated Senior Software Engineer, just starting my open source experiences :beer:
 
-- 🔭 I’m currently working on cloud architecture and implementation. I will soon have my AWS developer certifcation.
+- 🔭 I’m currently working on Data&AI cloud architecture and implementation. I will soon have my AWS developer certification.
 - 🌱 I’m currently learning **ML/AI infrastructure and python programming**.
 - 👯 I’m looking to collaborate on the above :point_up:
 - 🤔 I’m looking for help with the above :point_up:
