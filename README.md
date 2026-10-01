@@ -11,7 +11,7 @@ I am a dedicated Senior Software Engineer, towards to Machine Learning Engineer/
 - 📫 How to reach me: vicky.guo97@gmail.com
 - 📖 Check out my Medium Storys: https://medium.com/@vicky.guo97
 
-[Check my home page to learn more about me](https://vickyguo0907.github.io/)
+[Check out home page to learn more about me](https://vickyguo0907.github.io/)
 
 ![Vicky Guo's github stats](https://github-readme-stats.vercel.app/api?username=VickyGuo0907&show_icons=true&theme=algolia)
 
